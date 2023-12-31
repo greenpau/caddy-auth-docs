@@ -19,7 +19,7 @@ Please show your appreciation for this work:
 2. [**Star caddy-security**](https://github.com/greenpau/caddy-security) :star: :star: :star:
 3. [**Sponsor** @greenpau](https://github.com/sponsors/greenpau)
 
-Please ask questions via Github Issues or reach out directly via
+Please ask questions via GitHub Issues or reach out directly via
 [LinkedIn](https://www.linkedin.com/in/greenpau/).
 I am happy to help you! [@greenpau](https://github.com/greenpau)
 
@@ -30,7 +30,7 @@ Here is the list of Caddy v2 plugins I maintain:
 * [caddy-systemd](https://github.com/greenpau/caddy-systemd)
 * [caddy-git](https://github.com/greenpau/caddy-git)
 
-Watch the following Youtube videos:
+Watch the following YouTube videos:
 
 * **Setting Up Local Authentication**: [Video](https://www.youtube.com/watch?v=k8tbbffMGZk)
   and [Config Gist](https://gist.github.com/greenpau/dbfadd3c9fee21dbb0a0d3902a8d0ec0)

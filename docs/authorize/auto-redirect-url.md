@@ -82,9 +82,9 @@ token's issuer value. Then, it checks whether the value starts with `http`.
 If it is, then the `set auth url` will be overwritten with the issuer's
 web address.
 
-## Javascript Redirect
+## JavaScript Redirect
 
-The following directive enables Javascript-based redirect. This is useful when
+The following directive enables JavaScript-based redirect. This is useful when
 the URI path contains pound (`#`) sign.
 
 ```
@@ -146,7 +146,7 @@ https://auth.example.com/auth?login_hint=myusername&redirect_url=https://myapp.c
 
 Sometimes it is required to have a basic authorization block configure with the ability to inject scopes, into the OAUTH identity provider, that comes from the client. This would be useful to ask the user different scopes depending on your business logic.
 
-This will indicate to the authenticator that will fetch from the request a query parameter `additional_scopes`, and merge the conetnt into the OAUTH identity provider block.
+This will indicate to the authenticator that will fetch from the request a query parameter `additional_scopes`, and merge the content into the OAUTH identity provider block.
 
 If this is enable, the client can make a call like:
 

@@ -147,13 +147,13 @@ prefix match org ny
 
 #### Field Exists Conditions
 
-The field existance in a token conditions follow this syntax.
+The field existence in a token conditions follow this syntax.
 
 ```
 field <name> [not] exists
 ```
 
-For example the following condition checks for the presense
+For example the following condition checks for the presence
 of `sub` field in a token:
 
 ```
